@@ -1,0 +1,11 @@
+
+PIN  |  IO  |  DESCRIPTION
+-----------------------------------
+PA0  |  I   |  LED 7
+PA1  |  I   |  LED 6
+PA2  |  I   |  LED 5
+PA3  |  I   |  LED 4
+PA4  |  I   |  LED 3
+PA5  |  I   |  LED 2
+PA6  |  I   |  LED 1
+PA7  |  I   |  LED 0
